@@ -10,13 +10,13 @@
 
 <h3><p align="center">Isenção de responsabilidade</p></h3>
 
-<i>Quaisquer ações e/ou atividades relacionadas a <b>Fizz</b> é exclusivamente sua responsabilidade. O uso indevido deste kit de ferramentas pode resultar em<b>acusações criminais</b> trazido contra as pessoas em questão. <b>Os contribuintes não serão responsabilizados</b> no caso de qualquer acusação criminal ser movida contra qualquer indivíduo que use indevidamente este kit de ferramentas para infringir a lei.
+<i>Quaisquer ações e/ou atividades relacionadas a <b>Fizz</b> é exclusivamente sua responsabilidade. O uso indevido deste kit de ferramentas pode resultar em<b> acusações criminais</b> trazidas contra as pessoas em questão. <b>Os contribuintes não serão responsabilizados</b> no caso de qualquer acusação criminal ser movida contra qualquer indivíduo que use indevidamente este kit de ferramentas para infringir a lei.
 
 <b>Este kit de ferramentas contém materiais que podem ser potencialmente prejudiciais ou perigosos para as redes sociais</b>. Consulte as leis em sua província/país antes de acessar, usar ou de qualquer outra forma utilizar isso de maneira incorreta.
 
-<b>Esta ferramenta é feita apenas para fins educacionais</b>. Não tente violar a lei com qualquer coisa contida aqui.<b>Se esta é sua intenção, então dê o fora daqui</b>!
+<b>Esta ferramenta é feita apenas para fins educacionais</b>. Não tente violar a lei com qualquer coisa contida aqui.<b> Se esta é sua intenção, vaza</b>!
 
-Isso apenas demonstra "como funciona o phishing".<b>Você não deve usar indevidamente as informações para obter acesso não autorizado às mídias sociais de alguém</b>.No entanto, você pode tentar fazer isso por sua própria conta e risco.</i>
+Isso apenas demonstra "como funciona o phishing".<b> Você não deve usar indevidamente as informações para obter acesso não autorizado às mídias sociais de alguém</b>. No entanto, você pode tentar fazer isso por sua própria conta e risco.</i>
 
 ##
 
@@ -48,7 +48,7 @@ $ bash fizz.sh
 
 ### Dependencias
 
-**`Fizz`** requires following programs to run properly - 
+**`Fizz`** requer os seguintes programas para funcionar corretamente - 
 - `php`
 - `wget`
 - `curl`
