@@ -4,7 +4,7 @@
   Fizz
 </p>
 
-<p align="center">Uma ferramenta de phishing automatizada amigável para iniciantes com mais de 30 modelos.</p>
+<p align="center">Uma ferramenta de phishing automatizada amigável para iniciantes.</p>
 
 ##
 
