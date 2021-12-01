@@ -219,7 +219,7 @@ about() {
 	cat <<- EOF
 		${GREEN}Author   ${RED}:  ${ORANGE}Vivaldo Chagas ${RED}[ ${ORANGE}HTR-TECH ${RED}]
 		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/Nosferatuvjr
-		${GREEN}Social   ${RED}:  ${CYAN}https://link
+		${GREEN}Social   ${RED}:  ${CYAN}https://instagram.com/1997vjr
 		${GREEN}Version  ${RED}:  ${ORANGE}3.0
 
 		${REDBG}${WHITE} Thanks : all ${RESETBG}
