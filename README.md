@@ -48,7 +48,7 @@ $ bash fizz.sh
 
 ### Dependencias
 
-**`Fizz`** requires following programs to run properly - 
+**`Fizz`** requer os seguintes programas para funcionar corretamente - 
 - `php`
 - `wget`
 - `curl`
