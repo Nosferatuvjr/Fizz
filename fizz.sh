@@ -318,9 +318,6 @@ start_ngrok() {
 	capture_data
 }
 
-
-## DON'T COPY PASTE WITHOUT CREDIT DUDE :')
-
 ## Start Cloudflared
 start_cloudflared() { 
 	echo -e "\n${RED}[${WHITE}-${RED}]${GREEN} Initializing... ${GREEN}( ${CYAN}http://$HOST:$PORT ${GREEN})"
