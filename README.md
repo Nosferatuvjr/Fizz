@@ -61,6 +61,6 @@ $ bash fizz.sh
 ### Fale comigo em :
 <p align="left">
   <a href="https://github.com/Nosferatuvjr" target="_blank"><img src="https://img.shields.io/badge/Github-Nosferatuvjr-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/1997vjr" target="_blank"><img src="https://img.shields.io/badge/IG-%401997vjr-red?style=for-the-badge&logo=instagram"></a>
+  <a href="https://www.instagram.com/vivald0x6f" target="_blank"><img src="https://img.shields.io/badge/IG-%40vivald0x6f-red?style=for-the-badge&logo=instagram"></a>
 </p>
 
